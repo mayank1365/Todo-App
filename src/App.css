@@ -22,7 +22,7 @@ body {
     flex-direction: column;
     justify-content: center;
     width: 500px;
-    min-height: 500px;
+    min-height: 400px;
     background: #ffffff;
     text-align: center;
     border-radius: 15px;
@@ -46,7 +46,7 @@ h1 {
 
 .complete {
     text-decoration: line-through;
-    color: #888;
+    color: #6e0000;
     font-style: italic;
 }
 
@@ -162,5 +162,5 @@ h1 {
 }
 
 .edit-icon {
-    color: #00bcd4;
+    color: #00ac2b;
 }
